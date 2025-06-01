@@ -16,8 +16,8 @@ This project demonstrates how to predict housing prices using a Linear Regressio
 
 4. **Model Evaluation**
    - Evaluated the model using:
-     - Mean Absolute Error (MAE): ₹970,043.40
-     - Mean Squared Error (MSE): ₹1.75 × 10¹²
+     - Mean Absolute Error (MAE)
+     - Mean Squared Error (MSE)
      - R² Score: 0.653
 
 5. **Visualization**
